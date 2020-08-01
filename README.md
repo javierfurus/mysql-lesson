@@ -3,5 +3,5 @@
 sudo docker-compose up
 ```
 ```bash
-sudo docker-compose exec mysql_mysqlserver mysql -u root -ptoor testdb
+sudo docker-compose exec mysqlserver mysql -u root -ptoor testdb
 ```
